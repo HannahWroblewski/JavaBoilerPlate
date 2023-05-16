@@ -1,2 +1,0 @@
-# JavaBoilerPlate
-# JavaBoilerPlate
